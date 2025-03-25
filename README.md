@@ -1,6 +1,9 @@
 <img src="https://i.imgur.com/SHgEtNq.png">
 <h3 align="center">A passionate software developer from Spain</h3>
 
+<h3 align="left">Projects I have worked on</h3>
+<a href="https://github.com/ispp-2324-ocial"> Ocial</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/horaciogl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="horaciogl" height="30" width="40" /></a>
