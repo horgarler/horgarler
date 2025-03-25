@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Horacio</h1>
+<img src="https://i.imgur.com/SHgEtNq.png">
 <h3 align="center">A passionate software developer from Spain</h3>
 
 <h3 align="left">Connect with me:</h3>
